@@ -1,2 +1,2 @@
-# our_project
+# nobita_project
 Git Practice Repository for enPit 

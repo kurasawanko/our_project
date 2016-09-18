@@ -1,2 +1,2 @@
-# shizuka_project
+# nobita&shizuka project
 Git Practice Repository for enPit 
